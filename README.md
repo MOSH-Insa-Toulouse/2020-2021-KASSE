@@ -1,4 +1,4 @@
-# 2020-2021-POTIERS_SERONIE-VIVIEN
+# 2020-2021-KASSE
 
 This project is part of the 5ISS year formation at INSA Toulouse.
 After designing a nanoparticle gas sensor in the AIME laboratory at INSA Toulouse, we worked on the modeling of the assembly that would allow us to publish its measurements on the campus LoRa gateway.
